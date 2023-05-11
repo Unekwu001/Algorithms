@@ -17,7 +17,7 @@ namespace Algorithms
 
                 //Write a program to find the sum of digits of an integer number, inputed by the user.
 
-
+                //This do while loop validates the user input.
                 do
                 {
                     Console.WriteLine(" Enter a number. You are required to enter only digit(s)");
