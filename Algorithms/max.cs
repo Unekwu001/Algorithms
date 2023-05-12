@@ -18,7 +18,7 @@ namespace Algorithms
                     max = digits[i];
                 }
             }
-        Console.WriteLine(max);
+        Console.WriteLine("The maximum digit in the list is" + max);
 
         }
     }
