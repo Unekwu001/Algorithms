@@ -10,8 +10,11 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            var obj = new Algos();
-            obj.SumOfDigits();
+            //var obj = new Algos();
+            //obj.SumOfDigits();
+
+            var obj = new Factorial();
+            obj.Facto();
         }
     }
 

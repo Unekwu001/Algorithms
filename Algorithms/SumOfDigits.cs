@@ -26,6 +26,7 @@ namespace Algorithms
                 }
                 while (!int.TryParse(rawInput, out _));
 
+                
                 processedInput = int.Parse(rawInput);
 
                 while (processedInput > 0)
