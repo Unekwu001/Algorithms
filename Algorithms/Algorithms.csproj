@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="arraylist.cs" />
+    <Compile Include="ConvertArrayToString.cs" />
     <Compile Include="dollarBills.cs" />
     <Compile Include="endsWith.cs" />
     <Compile Include="factorial.cs" />
