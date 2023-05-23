@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="arraylist.cs" />
+    <Compile Include="dollarBills.cs" />
+    <Compile Include="endsWith.cs" />
     <Compile Include="factorial.cs" />
     <Compile Include="max.cs" />
     <Compile Include="primeNumbers.cs" />
